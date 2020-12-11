@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
 
         switch (v.getId()){
-            case R.id.buttonNegate:/* // was hard to implement so i avoided it
+            case R.id.buttonNegate:/* // was hard to implement so i avoided it. github deneme
                 if(isNegated){
                     previewText = previewText.replace("-"+String.valueOf(currentValue),"+"+String.valueOf(currentValue));
                 }else{
